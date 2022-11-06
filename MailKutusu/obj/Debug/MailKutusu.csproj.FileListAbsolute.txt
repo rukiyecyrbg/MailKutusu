@@ -1,0 +1,11 @@
+C:\Users\cayir\source\repos\MailKutusu\bin\Debug\MailKutusu.exe.config
+C:\Users\cayir\source\repos\MailKutusu\bin\Debug\MailKutusu.exe
+C:\Users\cayir\source\repos\MailKutusu\bin\Debug\MailKutusu.pdb
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.csproj.AssemblyReference.cache
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.Form1.resources
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.Properties.Resources.resources
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.csproj.GenerateResource.cache
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.csproj.CoreCompileInputs.cache
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.exe
+C:\Users\cayir\source\repos\MailKutusu\obj\Debug\MailKutusu.pdb
